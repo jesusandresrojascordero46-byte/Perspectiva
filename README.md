@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Perspectiva: Opinión y noticias del fútbol desde otro ángulo." />
+  <meta name="description" content="Perspectiva: Opinión y noticias del fútbol." />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
   <style>
     /* Variables de colores */
